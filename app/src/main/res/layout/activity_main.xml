@@ -118,6 +118,7 @@
                 android:minHeight="0dp"
                 android:minWidth="0dp"
                 android:background="@drawable/selector_button_background_borderless"
+                android:textAllCaps="false"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
         </LinearLayout>
